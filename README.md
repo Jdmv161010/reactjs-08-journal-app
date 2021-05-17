@@ -1,3 +1,23 @@
+# Temas puntuales de la sección
+
++ SASS
++ Diseño completo de la aplicación de forma manual
++ Uso de funciones de SASS
++ Configuración y uso de parciales
++ Transiciones en SASS
++ Redux
++ Store
++ Middlewares
++ Dispatch
++ Actions
++ State
++ Acciones asíncronas
++ CRUD hacia Firestore
++ Expandiendo nuestro estore añadiendo otros reducers
++ Seleccionar y subir archivos
++ Animaciones adicionales a nuestra aplicación
++ Limpieza en el logout
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
